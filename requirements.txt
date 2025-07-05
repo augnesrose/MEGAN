@@ -1,0 +1,14 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+mem0ai
+langchain_community
+requests
+python-dotenv
+duckduckgo-search
+google-auth
+google-auth-oauthlib 
+google-auth-httplib2
+google-api-python-client
